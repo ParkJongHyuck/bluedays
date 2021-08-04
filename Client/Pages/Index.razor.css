@@ -1,0 +1,30 @@
+﻿.main-content {
+    margin: 0px !important;
+    padding: 0px !important;
+    height: calc(100vh - 80px);
+    background-image: url("resources/mainpage/backgroundImage.png");
+    background-size:cover;
+    display:flex;
+}
+.onboard {
+    position: relative;
+    width: 860px;
+    height: 360px;
+    background-color: rgba(0, 0, 0, 0.6);
+    margin:auto;
+    margin-left:100px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.onboard-content {
+    color: white;
+    text-align: center;
+}
+.onboard-button {
+    width: 380px;
+    height: 100px;
+    background-color: rgba(113, 126, 134, 0.7);
+    margin:0px;
+}

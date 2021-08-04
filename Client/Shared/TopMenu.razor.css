@@ -1,0 +1,33 @@
+﻿.top-menu {
+    margin: auto;
+    text-align: center;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.top-menu-item {
+    margin-right: 48px;
+    font-size:28px;
+    align-items:center;
+}
+
+.logo {
+    margin-right:48px;
+}
+
+a{
+    text-decoration-line :none;
+}
+a:link{
+    color:black;
+}
+a:active{
+    color:black;
+}
+a:visited{
+    color:black;
+}
+a:hover{
+    color:black;
+}
